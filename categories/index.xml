@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on صفحتى الشخصية</title>
-    <link>http://yahya06-personal.org/categories/</link>
+    <link>https://yahyaahmed1.github.io/hugo-personal-page/categories/</link>
     <description>Recent content in Categories on صفحتى الشخصية</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ar</language><atom:link href="http://yahya06-personal.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ar</language><atom:link href="https://yahyaahmed1.github.io/hugo-personal-page/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
